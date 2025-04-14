@@ -10,11 +10,11 @@ This is a Python-based Hangman game using the tkinter library for the graphical 
 ## 📦 Requirements
 Python 3.x
 Tkinter (pre-installed with most Python distributions)
-
 ## ▶️ Run the Game
 ```bash
 python hangman.py
 ```
+
 # Memory Game
 🧠 Memory Game (Tkinter GUI)
 A fun and interactive memory game built using Python's Tkinter library. Test your short-term memory by memorizing and recalling sequences of characters!
@@ -24,7 +24,6 @@ A fun and interactive memory game built using Python's Tkinter library. Test you
 🧩 Shuffled buttons for guessing the correct order
 🔄 Keep guessing until you get the sequence right
 💬 User-friendly GUI using Tkinter
-
 ## 🎮 How to Play
 - Run the game using Python.
 - Choose a difficulty level.
@@ -32,11 +31,9 @@ A fun and interactive memory game built using Python's Tkinter library. Test you
 - When the shuffled characters appear as buttons, click them in the order you remember.
 - Submit your guess.
 - If your guess is correct, you win! Otherwise, try again.
-
 ## 📦 Requirements
 Python 3.x
 Tkinter (pre-installed with most Python distributions)
-
 ## ▶️ Run the Game
 ```bash
 python memory.py
@@ -65,7 +62,7 @@ python rock_scissors_bag.py
 
 # Black Jack Game
 This is a simple **Blackjack** game built using **Python** and **Tkinter**, simulating a one-on-one match between the player and the computer (dealer). The game follows standard Blackjack rules and provides a clean graphical user interface for playing.
-## 🎮 Features
+## ✨ Features
 - Standard 52-card deck, shuffled each round
 - Card total updates for both player and dealer
 - Hit or Stand gameplay logic
@@ -73,7 +70,6 @@ This is a simple **Blackjack** game built using **Python** and **Tkinter**, simu
 - Detects busts, ties, and game outcomes
 - Restart button for quick replay
 - Built-in Ace value adjustment (1 or 11)
-
 ## 🧠 Game Rules
 - Each player is dealt two cards at the start.
 - The dealer shows only one of its two cards.
@@ -84,12 +80,9 @@ This is a simple **Blackjack** game built using **Python** and **Tkinter**, simu
 - The dealer draws until their total is **17 or more**.
 - The highest score ≤ 21 wins.
 - Ties result in a draw.
-
-## 🚀 How to Run
-1. Make sure you have Python installed (version 3.x).
-2. Save the script as `blackjack_gui.py`.
-3. Run the game using:
-
+## 📦 Requirements
+Python 3.x
+## ▶️ Run the Game
 ```bash
 python blackjack.py
 ```
